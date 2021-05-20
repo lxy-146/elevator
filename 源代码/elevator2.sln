@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elevator2", "elevator2.csproj", "{3285CBDA-897A-4C6C-9D00-D6EE8DA6E239}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "elevator4.0", "D:\program(VS)\elevator4.0\elevator4.0.vdproj", "{3ED83E03-6424-4161-B52A-070DCA105D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3285CBDA-897A-4C6C-9D00-D6EE8DA6E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3285CBDA-897A-4C6C-9D00-D6EE8DA6E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3285CBDA-897A-4C6C-9D00-D6EE8DA6E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3285CBDA-897A-4C6C-9D00-D6EE8DA6E239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED83E03-6424-4161-B52A-070DCA105D05}.Debug|Any CPU.ActiveCfg = Debug
+		{3ED83E03-6424-4161-B52A-070DCA105D05}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85602E64-10B5-4A1B-911A-9423CA37354F}
+	EndGlobalSection
+EndGlobal

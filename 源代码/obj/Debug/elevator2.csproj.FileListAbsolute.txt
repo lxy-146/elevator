@@ -1,0 +1,48 @@
+D:\program(VS)\elevator2\bin\Debug\elevator2.exe.config
+D:\program(VS)\elevator2\bin\Debug\elevator2.exe
+D:\program(VS)\elevator2\bin\Debug\elevator2.pdb
+D:\program(VS)\elevator2\obj\Debug\elevator2.csprojAssemblyReference.cache
+D:\program(VS)\elevator2\obj\Debug\elevator2.Form1.resources
+D:\program(VS)\elevator2\obj\Debug\elevator2.Properties.Resources.resources
+D:\program(VS)\elevator2\obj\Debug\elevator2.csproj.GenerateResource.cache
+D:\program(VS)\elevator2\obj\Debug\elevator2.csproj.CoreCompileInputs.cache
+D:\program(VS)\elevator2\obj\Debug\elevator2.exe
+D:\program(VS)\elevator2\obj\Debug\elevator2.pdb
+D:\90\elevator2\bin\Debug\elevator2.exe.config
+D:\90\elevator2\bin\Debug\elevator2.exe
+D:\90\elevator2\bin\Debug\elevator2.pdb
+D:\90\elevator2\obj\Debug\elevator2.csprojAssemblyReference.cache
+D:\90\elevator2\obj\Debug\elevator2.Form1.resources
+D:\90\elevator2\obj\Debug\elevator2.Properties.Resources.resources
+D:\90\elevator2\obj\Debug\elevator2.csproj.GenerateResource.cache
+D:\90\elevator2\obj\Debug\elevator2.exe
+D:\90\elevator2\obj\Debug\elevator2.pdb
+D:\program(VS)\elevator3\bin\Debug\elevator2.exe.config
+D:\program(VS)\elevator3\bin\Debug\elevator2.exe
+D:\program(VS)\elevator3\bin\Debug\elevator2.pdb
+D:\program(VS)\elevator3\obj\Debug\elevator2.csprojAssemblyReference.cache
+D:\program(VS)\elevator3\obj\Debug\elevator2.Form1.resources
+D:\program(VS)\elevator3\obj\Debug\elevator2.Properties.Resources.resources
+D:\program(VS)\elevator3\obj\Debug\elevator2.csproj.GenerateResource.cache
+D:\program(VS)\elevator3\obj\Debug\elevator2.csproj.CoreCompileInputs.cache
+D:\program(VS)\elevator3\obj\Debug\elevator2.exe
+D:\program(VS)\elevator3\obj\Debug\elevator2.pdb
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\bin\Debug\elevator2.exe.config
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\bin\Debug\elevator2.exe
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\bin\Debug\elevator2.pdb
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.csprojAssemblyReference.cache
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.Form1.resources
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.Properties.Resources.resources
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.csproj.GenerateResource.cache
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.exe
+C:\Users\yiquy\Desktop\桌面临时文件\elevator3\obj\Debug\elevator2.pdb
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\bin\Debug\elevator2.exe.config
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\bin\Debug\elevator2.exe
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\bin\Debug\elevator2.pdb
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.csprojAssemblyReference.cache
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.Form1.resources
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.Properties.Resources.resources
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.csproj.GenerateResource.cache
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.exe
+C:\Users\lenovo1\Desktop\暂时桌面文件\进程调度作业提交 1953066 刘昕宇\源代码\obj\Debug\elevator2.pdb
